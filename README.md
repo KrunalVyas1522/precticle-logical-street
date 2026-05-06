@@ -1,4 +1,4 @@
-# precticle-logical-street
+# Sample task-managemet Project
 
 Please refer env.test and create new .env file.
 
